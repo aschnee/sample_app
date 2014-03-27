@@ -1,5 +1,9 @@
 == README
 
+# Ruby on Rails Tutorial: Sample Application
+
+This is the sample application for ruby rails!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
